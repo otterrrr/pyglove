@@ -49,6 +49,12 @@ glove.word_vector[glove.word_to_wid['language']]
 # array([-0.12997769,  0.01405516,  0.00665576, -0.12605855,  0.10085336])
 ```
 
+### Use case
+
+#### Stock embeddings of korean stock markets (after processing TSNE dimension reduction)
+
+![stock embeddings](https://user-images.githubusercontent.com/1368591/100223133-6bfb6180-2f5e-11eb-883e-a8e1951decf5.png)
+
 ### Limitation
 
 Features the original stanford **Glove** supports but **pyglove** doesn't
